@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Inlamningsuppgift7/static/css/main.1b3b4f21.chunk.css",
-    "main.js": "/Inlamningsuppgift7/static/js/main.0fad4ad8.chunk.js",
-    "main.js.map": "/Inlamningsuppgift7/static/js/main.0fad4ad8.chunk.js.map",
-    "runtime-main.js": "/Inlamningsuppgift7/static/js/runtime-main.a455ab7c.js",
-    "runtime-main.js.map": "/Inlamningsuppgift7/static/js/runtime-main.a455ab7c.js.map",
-    "static/js/2.a0bfdeab.chunk.js": "/Inlamningsuppgift7/static/js/2.a0bfdeab.chunk.js",
-    "static/js/2.a0bfdeab.chunk.js.map": "/Inlamningsuppgift7/static/js/2.a0bfdeab.chunk.js.map",
-    "static/js/3.0f3cbe35.chunk.js": "/Inlamningsuppgift7/static/js/3.0f3cbe35.chunk.js",
-    "static/js/3.0f3cbe35.chunk.js.map": "/Inlamningsuppgift7/static/js/3.0f3cbe35.chunk.js.map",
-    "index.html": "/Inlamningsuppgift7/index.html",
-    "static/css/main.1b3b4f21.chunk.css.map": "/Inlamningsuppgift7/static/css/main.1b3b4f21.chunk.css.map",
-    "static/js/2.a0bfdeab.chunk.js.LICENSE.txt": "/Inlamningsuppgift7/static/js/2.a0bfdeab.chunk.js.LICENSE.txt",
-    "static/media/profile.ca81bf30.gif": "/Inlamningsuppgift7/static/media/profile.ca81bf30.gif"
+    "main.css": "/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css",
+    "main.js": "/Inlamningsuppgift/static/js/main.0fad4ad8.chunk.js",
+    "main.js.map": "/Inlamningsuppgift/static/js/main.0fad4ad8.chunk.js.map",
+    "runtime-main.js": "/Inlamningsuppgift/static/js/runtime-main.a061d6ec.js",
+    "runtime-main.js.map": "/Inlamningsuppgift/static/js/runtime-main.a061d6ec.js.map",
+    "static/js/2.a0bfdeab.chunk.js": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js",
+    "static/js/2.a0bfdeab.chunk.js.map": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.map",
+    "static/js/3.0f3cbe35.chunk.js": "/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js",
+    "static/js/3.0f3cbe35.chunk.js.map": "/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js.map",
+    "index.html": "/Inlamningsuppgift/index.html",
+    "static/css/main.1b3b4f21.chunk.css.map": "/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css.map",
+    "static/js/2.a0bfdeab.chunk.js.LICENSE.txt": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.LICENSE.txt",
+    "static/media/profile.ca81bf30.gif": "/Inlamningsuppgift/static/media/profile.ca81bf30.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a455ab7c.js",
+    "static/js/runtime-main.a061d6ec.js",
     "static/js/2.a0bfdeab.chunk.js",
     "static/css/main.1b3b4f21.chunk.css",
     "static/js/main.0fad4ad8.chunk.js"
