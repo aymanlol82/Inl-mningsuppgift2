@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css",
-    "main.js": "/Inlamningsuppgift/static/js/main.0fad4ad8.chunk.js",
-    "main.js.map": "/Inlamningsuppgift/static/js/main.0fad4ad8.chunk.js.map",
-    "runtime-main.js": "/Inlamningsuppgift/static/js/runtime-main.a061d6ec.js",
-    "runtime-main.js.map": "/Inlamningsuppgift/static/js/runtime-main.a061d6ec.js.map",
-    "static/js/2.a0bfdeab.chunk.js": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js",
-    "static/js/2.a0bfdeab.chunk.js.map": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.map",
-    "static/js/3.0f3cbe35.chunk.js": "/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js",
-    "static/js/3.0f3cbe35.chunk.js.map": "/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js.map",
-    "index.html": "/Inlamningsuppgift/index.html",
-    "static/css/main.1b3b4f21.chunk.css.map": "/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css.map",
-    "static/js/2.a0bfdeab.chunk.js.LICENSE.txt": "/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.LICENSE.txt",
-    "static/media/profile.ca81bf30.gif": "/Inlamningsuppgift/static/media/profile.ca81bf30.gif"
+    "main.css": "/aymanlol82/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css",
+    "main.js": "/aymanlol82/Inlamningsuppgift/static/js/main.39cfda1b.chunk.js",
+    "main.js.map": "/aymanlol82/Inlamningsuppgift/static/js/main.39cfda1b.chunk.js.map",
+    "runtime-main.js": "/aymanlol82/Inlamningsuppgift/static/js/runtime-main.ec127e25.js",
+    "runtime-main.js.map": "/aymanlol82/Inlamningsuppgift/static/js/runtime-main.ec127e25.js.map",
+    "static/js/2.a0bfdeab.chunk.js": "/aymanlol82/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js",
+    "static/js/2.a0bfdeab.chunk.js.map": "/aymanlol82/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.map",
+    "static/js/3.0f3cbe35.chunk.js": "/aymanlol82/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js",
+    "static/js/3.0f3cbe35.chunk.js.map": "/aymanlol82/Inlamningsuppgift/static/js/3.0f3cbe35.chunk.js.map",
+    "index.html": "/aymanlol82/Inlamningsuppgift/index.html",
+    "static/css/main.1b3b4f21.chunk.css.map": "/aymanlol82/Inlamningsuppgift/static/css/main.1b3b4f21.chunk.css.map",
+    "static/js/2.a0bfdeab.chunk.js.LICENSE.txt": "/aymanlol82/Inlamningsuppgift/static/js/2.a0bfdeab.chunk.js.LICENSE.txt",
+    "static/media/profile.ca81bf30.gif": "/aymanlol82/Inlamningsuppgift/static/media/profile.ca81bf30.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a061d6ec.js",
+    "static/js/runtime-main.ec127e25.js",
     "static/js/2.a0bfdeab.chunk.js",
     "static/css/main.1b3b4f21.chunk.css",
-    "static/js/main.0fad4ad8.chunk.js"
+    "static/js/main.39cfda1b.chunk.js"
   ]
 }
